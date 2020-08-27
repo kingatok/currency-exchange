@@ -1,5 +1,4 @@
-Aplikacja przetwarzająca transakcje walutowe
-Lista wymagań
+Aplikacja przetwarzająca transakcje walutowe, Lista wymagań
 - Wyświetlanie i definiowanie przelicznika walutowego (1 EURO = x PLN)
 - Dodawanie transakcji walutowej: definiowana nazwa i kwota w euro
 - Lista dodanych transakcji walutowych: wyświetlanie dodanych wcześniej transakcji (nazwa, kwota w euro, automatycznie wyliczona kwota w PLN)
